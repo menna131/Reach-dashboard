@@ -1,5 +1,17 @@
-# Getting Started with Create React App
-
+# Getting Started with This React App
+## Steps:
+  - 1- open localhost
+  - 2- click on the burger menu button
+  - 3- click on User Management
+  - 4- click on Users
+  - 5- the page will include:
+      - list of names and emails 
+      - search area to search for names and emails
+      - add user button to open the add user model
+   
+## Notes:
+  - used https://jsonplaceholder.typicode.com/users to get emails and names list
+#########################################################################################################3
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
